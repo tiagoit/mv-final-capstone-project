@@ -1,2 +1,24 @@
-# mv-final-capstone-project
-[Microverse.org Final Capstone Project: Listings App](https://www.notion.so/Final-Capstone-Project-Listings-App-f3610268057941e481d35b269da30f0c)
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
