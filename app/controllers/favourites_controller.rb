@@ -22,11 +22,10 @@ class FavouritesController < ApplicationController
   # DELETE /favourites/{id}
   def destroy
     @favourite = Favourite.find_by(user_id: @current_user.id, provider_id: params[:id])
-    @favourite.destroy if @favourite
+    @favourite&.destroy
   end
 
   # def favourite_params
   #   params.require(:favourite).permit(:provider_id)
   # end
-
 end
