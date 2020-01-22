@@ -24,8 +24,4 @@ class FavouritesController < ApplicationController
     @favourite = Favourite.find_by(user_id: @current_user.id, provider_id: params[:id])
     @favourite&.destroy
   end
-
-  # def favourite_params
-  #   params.require(:favourite).permit(:provider_id)
-  # end
 end
