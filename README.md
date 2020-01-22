@@ -28,7 +28,7 @@ The assignment can be found in the [Microverse Inc. Project Requirements](https:
 
 ## 🚀 The project
 
-This project can be found in https://github.com/ferreirati/mv-final-capstone-project
+This project can be found in https://github.com/tiagoit/mv-final-capstone-project
 
 ### ✨ [live version](https://ferreirati-real-estate.herokuapp.com/)
 
@@ -53,9 +53,9 @@ This project can be found in https://github.com/ferreirati/mv-final-capstone-pro
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br/>Feel free to check [issues page](https://github.com/ferreirati/mv-final-capstone-project/development/issues).
+Contributions, issues and feature requests are welcome!<br/>Feel free to check [issues page](https://github.com/tiagoit/mv-final-capstone-project/development/issues).
 
-1. Fork it (https://github.com/ferreirati/mv-final-capstone-project/development/fork)
+1. Fork it (https://github.com/tiagoit/mv-final-capstone-project/development/fork)
 2. Create your working branch (git checkout -b [choose-a-name])
 3. Commit your changes (git commit -am 'what this commit will fix/add/improve')
 4. Push to the branch (git push origin [chosen-name])
@@ -65,7 +65,7 @@ Contributions, issues and feature requests are welcome!<br/>Feel free to check [
 
 ## 🤖 Contributors
 
-Tiago Ferreira - [GitHub](https://github.com/ferreirati)
+Tiago Ferreira - [GitHub](https://github.com/tiagoit)
 
 Design idea by [Sergey Kalashnikov and others on Behance](https://www.behance.net/ibshaqura)
 
@@ -77,4 +77,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/ferreirati/mv-final-capstone-project/license.txt) licensed.
+This project is [MIT](https://github.com/tiagoit/mv-final-capstone-project/license.txt) licensed.
