@@ -38,7 +38,7 @@ This project can be found in https://github.com/tiagoit/mv-final-capstone-projec
   - Clone the backend repository `git clone git@github.com:tiagoit/mv-final-capstone-project.git`
   - Check the branch you want to serve, `development` is the default one. 
   - Install gems `bundle install`
-  - This project uses PostgreSQL as RDBMS.
+  - This project uses PostgreSQL as RDBMS, it should have a user with the same name as your OS user and Superuser privileges, this project uses the database `real_estate_development` create it manually if needed.
   - Execute the migrations `rails db:migrate`
   - Start the local server `rails server -p 4000`  
   - Query the API with a tool like Postman or serve the frontend. 
