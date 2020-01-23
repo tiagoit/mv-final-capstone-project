@@ -93,4 +93,8 @@ RSpec.configure do |config|
   # as the one that triggered the failure.
   Kernel.srand config.seed
 =end
+
+  # API JSON response object helper
+  require './spec/support/request_helpers'
+  config.include Requests::JsonHelpers, :type => :request
 end

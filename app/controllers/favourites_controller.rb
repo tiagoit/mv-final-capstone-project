@@ -8,8 +8,6 @@ class FavouritesController < ApplicationController
 
   # POST /favourites
   def create
-    puts '#########################'
-    puts params[:id]
     @favourite = @current_user.favourites.build(provider_id: params[:id])
     if @favourite.save
       render json: @favourite, status: :created
