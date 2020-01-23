@@ -33,7 +33,6 @@ rescue ActiveRecord::PendingMigrationError => e
   exit 1
 end
 
-
 # require database cleaner at the top level
 require 'database_cleaner'
 
