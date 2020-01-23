@@ -9,7 +9,7 @@ Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
     origins 'localhost:3000', 
             '127.0.0.1:3000',
-            'https://ferreirati-real-estate-react.herokuapp.com/'
+            'https://ferreirati-real-estate-react.herokuapp.com'
 
     resource '*',
       headers: :any,
