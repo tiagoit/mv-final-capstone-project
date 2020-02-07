@@ -9,8 +9,6 @@ AllCops:
     - "Procfile"
   DisplayCopNames: true
 
-Metrics/LineLength:
-  Max: 120
 Metrics/MethodLength:
   Include: ["app/controllers/*"]
   Max: 20
@@ -37,6 +35,8 @@ Style/SymbolArray:
 Style/DoubleNegation:
   Enabled: false
 
+Layout/LineLength:
+  Max: 120
 Layout/ExtraSpacing:
   AllowForAlignment: false
 Layout/MultilineMethodCallIndentation:
