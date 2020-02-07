@@ -81,7 +81,7 @@ RSpec.configure do |config|
     DatabaseCleaner.strategy = :transaction
   end
 
-  config.around(:each) do |example|
+  config.around(:suite) do |example|
     DatabaseCleaner.cleaning do
       example.run
     end
