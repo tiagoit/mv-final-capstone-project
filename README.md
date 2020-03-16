@@ -32,8 +32,8 @@ This project can be found in https://github.com/ferreirati/mv-final-capstone-pro
 
 ### ✨ [live version](https://ferreirati-real-estate.herokuapp.com/)
 
-## ✔️ Run the tests
-
+## ✔️ Testing
+- `rails test`
 
 
 ## 🤝 Contributing
